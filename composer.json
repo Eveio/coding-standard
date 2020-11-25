@@ -1,0 +1,10 @@
+{
+    "name": "eve/coding-standard",
+    "description": "eve's coding standard, built on top of slevomat/coding-standard",
+    "type": "library",
+    "require": {
+        "slevomat/coding-standard": "^6.4"
+    },
+    "license": "proprietary",
+    "minimum-stability": "stable"
+}
