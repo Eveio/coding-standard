@@ -1,6 +1,6 @@
 # eve Coding Standard
 
-[eve](https://eve.io)'s coding standard for [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer), built on top of [slevomat/coding-standard](https://github.com/slevomat/coding-standard).
+[eve](https://eve.io)'s coding standard for [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer), built on top of [slevomat/coding-standard](https://github.com/slevomat/coding-standard). Intended to be used for [Laravel](https://laravel.com)-based projects.
 
 ## Installation
 
