@@ -1,3 +1,3 @@
-# coding-standard
+# eve Coding Standard
 
-eve's PHP coding standard, built on top of [slevomat/coding-standard](https://github.com/slevomat/coding-standard).
+[eve](https://eve.io)'s PHP coding standard, built on top of [slevomat/coding-standard](https://github.com/slevomat/coding-standard).
