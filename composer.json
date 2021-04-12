@@ -3,7 +3,7 @@
     "description": "eve's coding standard, built on top of slevomat/coding-standard",
     "type": "library",
     "require": {
-        "slevomat/coding-standard": "^6.4"
+        "slevomat/coding-standard": "^7.0"
     },
     "license": "MIT",
     "minimum-stability": "stable"
